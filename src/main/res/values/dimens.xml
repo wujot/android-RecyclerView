@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Card View Recycler View -->
+    <dimen name="card_view_card_padding">8dp</dimen>
+    <dimen name="card_view_card_padding_inside">16dp</dimen>
+    <dimen name="card_view_card_border_radius">8dp</dimen>
+    <dimen name="card_view_image_size">76dp</dimen>
+    <dimen name="card_view_text_size_big">16sp</dimen>
+    <dimen name="card_view_text_size_small">10sp</dimen>
+    <dimen name="card_view_text_small_margin">12dp</dimen>
+    <!-- Card View Details Activity -->
+    <dimen name="detail_card_image_size">100dp</dimen>
+    <dimen name="detail_card_image_margin_top">24dp</dimen>
+    <dimen name="detail_card_texr_big_size">24sp</dimen>
+    <dimen name="detail_card_title_margin">8dp</dimen>
+    <dimen name="detail_card_separator_title_height">2dp</dimen>
+    <dimen name="detail_card_separator_content_height">1dp</dimen>
+    <dimen name="detail_card_footer_height">28dp</dimen>
+</resources>

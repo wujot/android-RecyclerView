@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "file:///android_asset/man.png",
+    "name": "John Doe",
+    "address": "Victoria Street 18",
+    "email": "john.doe@gmail.com",
+    "phone": "555-555-555",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "imageUrl": "file:///android_asset/girl.png",
+    "name": "Jane Doe",
+    "address": "Wyscigowa 80",
+    "email": "jane.doe@gmail.com",
+    "phone": "555-555-390",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "imageUrl": "file:///android_asset/boy.png",
+    "name": "Mike Hanson",
+    "address": "Baker's Street 1c",
+    "email": "mike999@gmail.com",
+    "phone": "70 322 344 12",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "imageUrl": "file:///android_asset/man3.png",
+    "name": "Roger Froger",
+    "address": "Saint Denis",
+    "email": "roggerfogger@gmail.com"
+  },
+  {
+    "id": 5,
+    "imageUrl": "file:///android_asset/man4.png",
+    "name": "Sierhiej Vasiliev",
+    "address": "Kasztanowa 8/11",
+    "email": "vasyl@vasyl.ru",
+    "phone": "12 988 898 231"
+  },
+  {
+    "id": 6,
+    "imageUrl": "file:///android_asset/girl2.png",
+    "name": "Janet Planet",
+    "address": "Strzegomska 10/9",
+    "email": "janetta@wp.pl",
+    "phone": "71 768 44 38"
+  }
+]

@@ -1,0 +1,15 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Recycler View</string>
+    <!-- Card View -->
+    <string name="card_view_image">Image</string>
+    <string name="card_view_name">John Doe</string>
+    <string name="card_view_address">Victoria Street 18</string>
+    <string name="card_view_phone">555-555-555</string>
+    <string name="card_view_email">john.doe@gmail.com</string>
+    <!-- Card View Detail -->
+    <string name="card_detail_address_placeholder">Address:</string>
+    <string name="card_detail_phone_placeholder">Phone:</string>
+    <string name="card_detail_email_placeholder">Email:</string>
+    <string name="card_detail_title_placeholder">Details</string>
+</resources>
